@@ -1,0 +1,78 @@
+I"�<p>In this post we present <code class="highlighter-rouge">SpatialEpiApp</code>, a <a href="https://shiny.rstudio.com/">Shiny</a> web application for the analysis of spatial and spatio-temporal disease data. <code class="highlighter-rouge">SpatialEpiApp</code> integrates two of the most common approaches in public health surveillance: disease risk mapping and detection of clusters.</p>
+
+<p>The application allows to fit Bayesian disease models to obtain risk estimates and their uncertainty by using <a href="http://www.r-inla.org/">INLA</a>, and to detect clusters by using the scan statistics implemented in <a href="https://www.satscan.org/">SaTScan</a>.
+<code class="highlighter-rouge">SpatialEpiApp</code> allows user interaction and creates interactive visualizations by using the R packages <a href="https://rstudio.github.io/leaflet/">Leaflet</a> for rendering maps, <a href="https://rstudio.github.io/dygraphs/">dygraphs</a> for plotting time series, and <a href="https://rstudio.github.io/DT/">DataTables</a> for displaying data objects. It also enables the generation of reports containing the analyses performed by using <a href="http://rmarkdown.rstudio.com/">RMarkdown</a>.</p>
+
+<p>To carry out these analyses users simply need to upload their map and data and then click the buttons that create the input files required, execute the software and process the output to generate tables of values and plots with the results.
+Here we briefly describe the main components of the application. The package <a href="https://cran.r-project.org/web/packages/SpatialEpiApp/vignettes/manual.pdf">vignette</a>
+can be checked for more details about the use of the application, methods and examples.</p>
+
+<h2 id="use-of-spatialepiapp">Use of SpatialEpiApp</h2>
+
+<p><code class="highlighter-rouge">SpatialEpiApp</code> has been implemented in the R package <code class="highlighter-rouge">SpatialEpiApp</code>. Users can launch the application by executing the following code in R:</p>
+
+<div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">install.packages</span><span class="p">(</span><span class="s2">"SpatialEpiApp"</span><span class="p">)</span><span class="w">
+</span><span class="n">library</span><span class="p">(</span><span class="n">SpatialEpiApp</span><span class="p">)</span><span class="w">
+</span><span class="n">run_app</span><span class="p">()</span><span class="w">
+</span></code></pre></div></div>
+
+<p>The application consists of three pages: ‘Inputs’, ‘Analysis’ and ‘Help’.</p>
+
+<h3 id="inputs">Inputs</h3>
+
+<p>The ‘Inputs’ page is the first page we see when we launch the application. In this page we can upload the required files and select the type of analysis to be performed. It is composed of three components:</p>
+
+<ul>
+  <li>Upload map (shapefile);</li>
+  <li>Upload data (csv file with area id, date, population, cases and covariates);</li>
+  <li>Select analysis (temporal unit, date range, spatial or spatio-temporal analysis).</li>
+</ul>
+
+<p><img src="/img/posts/2018-01-04-SpatialEpiApp/exinput.png" width="100%" /></p>
+
+<h3 id="analysis">Analysis</h3>
+
+<p>In the ‘Analysis’ page we can visualize the data, perform the statistical analyses, and generate reports. On the top of the page there are four buttons:</p>
+
+<ul>
+  <li>‘Edit Inputs’ which is used when we wish to return to the ‘Inputs’ page to modify the analysis options or upload new data;</li>
+  <li>‘Maps Pop O E SIR’ that creates plots of the population, observed, expected and SIR variables;</li>
+  <li>‘Estimate risk’ which is used for estimating the disease risk and their uncertainty;</li>
+  <li>‘Detect clusters’ used for the detection of disease clusters.</li>
+</ul>
+
+<p><img src="/img/posts/2018-01-04-SpatialEpiApp/animation.gif" width="100%" /></p>
+
+<p>The ‘Analysis’ page also contains four tabs called ‘Interactive’, ‘Maps’, ‘Clusters’ and ‘Report’ that include tables and plots with the results.</p>
+
+<h4 id="maps">Maps</h4>
+
+<p>The ‘Maps’ tab shows a summary table, maps and temporal trend plots of the population, observed cases, expected cases, SIR, risk and lower and upper limits of 95% credible intervals that were obtained by clicking the ‘Map Pop O E SIR’ and the ‘Estimate risk’ buttons.</p>
+
+<p><img src="/img/posts/2018-01-04-SpatialEpiApp/exmaps.png" width="100%" /></p>
+
+<h4 id="clusters">Clusters</h4>
+
+<p>The ‘Clusters tab’ shows, for each of the dates of the period of study, a map with the clusters detected and a plot with all clusters over time. This tab also includes a table with the information relative to each of the clusters such as the areas included and the significance.</p>
+
+<p><img src="/img/posts/2018-01-04-SpatialEpiApp/exclusters.png" width="100%" /></p>
+
+<h4 id="report">Report</h4>
+
+<p>In the ‘Report tab’ we can download a PDF document showing the results of our analysis. The report includes maps and tables summarizing the variables population, observed, expected, SIR, risk, lower and upper limits of the 95% credible intervals and clusters for each of the periods of time.</p>
+
+<p><img src="/img/posts/2018-01-04-SpatialEpiApp/exreport.png" width="100%" /></p>
+
+<h3 id="help">Help</h3>
+<p>The ‘Help’ button redirects to the ‘Help’ page which shows information about the use of the application, the statistiscal methodology and the developing tools employed.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>We think the <code class="highlighter-rouge">SpatialEpiApp</code> can be very useful for many researchers working in health surveillance.
+Moreover, the application can be easily extended and in future versions we will increase its flexibility enabling more options for disease mapping and the detection of clusters, as well as custom data visualizations.</p>
+
+<p>Please get in touch if you have any suggestions or doubts about input data, methods or interpretation!</p>
+
+<p>Contact: Paula Moraga
+<a href="https://Paula-Moraga.github.io">Web</a>,
+<a href="https://twitter.com/paumose">Twitter</a>.</p>
+:ET

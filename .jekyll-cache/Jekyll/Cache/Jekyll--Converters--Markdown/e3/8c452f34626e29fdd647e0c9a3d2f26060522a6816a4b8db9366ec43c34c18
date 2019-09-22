@@ -1,0 +1,14 @@
+I"�<p>Our <a href="../resources">resources section</a> will no longer read “*under construction”. It now contains two separate sections:</p>
+
+<ul>
+  <li>
+    <p>a <em>tutorial</em> section, which hosts a tutorial newly added on RECON for phylogenetic reconstruction</p>
+  </li>
+  <li>
+    <p>a <em>development tips</em> section, which provides guidelines for package development as well as for package review.</p>
+  </li>
+</ul>
+
+<p><br />
+<br /></p>
+:ET

@@ -1,0 +1,38 @@
+I"‹	<h2 id="a-new-ebola-outbreak-in-drc">A new Ebola outbreak in DRC</h2>
+
+<p>RECON members Jonathan Polonsky (WHO) and Thibaut Jombart (Imperial College
+London) joined the WHO response team for an <a href="http://www.afro.who.int/news/ebola-virus-disease-democratic-republic-congo">Ebola Virus Disease (EVD)
+outbreak</a>
+which took place in DRC in May-July 2017. This deployment took place as part of
+the activation of the <a href="http://www.who.int/ihr/alert_and_response/outbreak-network/en/">Global Alert and Response Network
+(GOARN)</a>.  The
+outbreak was successfully contained after 8 EVD cases, including 4 fatalities,
+were reported in the Likati health zone, <a href="https://en.wikipedia.org/wiki/Bas-Uele">Bas Uele
+province</a>.  The end of the outbreak was
+<a href="http://www.afro.who.int/news/who-declares-end-ebola-outbreak-democratic-republic-congo">officially
+declared</a>
+by WHO on the 2nd July 2017, 42 days (i.e. 2x95th percentile of the incubation
+period) after the last confirmed case.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tNZi8MLsMWM?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<p>[WHO video: rapidly ending an Ebola outbreak]</p>
+
+<h2 id="recon-tools-informed-the-response">RECON tools informed the response</h2>
+
+<p>A number of packages were used for improving situation awareness during this
+outbreak. <a href="http://www.repidemicsconsortium.org/epicontacts/"><em>epicontacts</em></a> was
+used for visualising and analysing contact tracing
+data. <a href="http://www.repidemicsconsortium.org/incidence/"><em>incidence</em></a> and
+<a href="https://github.com/reconhub/epitrix"><em>epitrix</em></a> were used in combination with 2
+newly developed packages,
+<a href="http://www.repidemicsconsortium.org/earlyR/"><em>earlyR</em></a> and
+<a href="https://github.com/reconhub/projections"><em>projections</em></a>, to estimate the
+diseaseâ€™s transmissibility and the associated uncertainty, and predict plausible
+epidemic courses. These predictions were used in real time for informing the
+response, showing that current efforts were sufficient for containing the
+outbreak, permitting to scale further efforts accordingly. These analyses are
+mentioned in the publicly available WHO <a href="http://www.afro.who.int/health-topics/ebola-virus-disease">situation
+reports</a> such as
+<a href="http://apps.who.int/iris/bitstream/10665/255615/1/EbolaDRC-01062017.pdf">this
+one</a>.</p>
+:ET

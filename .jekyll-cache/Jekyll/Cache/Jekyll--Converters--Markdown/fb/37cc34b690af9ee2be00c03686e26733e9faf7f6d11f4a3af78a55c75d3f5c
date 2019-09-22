@@ -1,0 +1,74 @@
+I"�<h2 id="a-sequel-only-better">A sequel, only better</h2>
+
+<p><a href="https://github.com/reconhub/outbreaker2"><em>outbreaker2</em></a> is a total re-implementation of a model implemented in
+ <a href="https://github.com/thibautjombart/outbreaker"><em>outbreaker</em></a>, for the
+ reconstruction of transmission trees from densely sampled outbreaks (i.e., most
+ cases observed). While the original version was computationally efficient, it
+ basically consisted of a C engine which was optimized for speed, but poorly
+ tested (no unit testing) and very hard to develop upon.</p>
+
+<p>This is unfortunate, as the <a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003457">original
+model</a>
+was fairly simple and did not allow addition of new types of data or likelihood
+components. The original idea behind <em>outbreaker2</em> was to address these
+limitations.</p>
+
+<h2 id="what-is-new">What is new?</h2>
+
+<h3 id="outbreaker-after-the-yoga-revolution"><em>outbreaker</em> after the yoga revolution</h3>
+
+<p>The major novelty of <em>outbreaker2</em> is flexibility. The design of <em>outbreaker2</em>
+relied on breaking down the components making up <em>outbreaker</em> and similar
+methods, and treating them as separate modules. This includes priors,
+likekelihood functions, and even movement of parameters and augmented data. All
+of these modules are treated as separate ingredients of a big methodological
+recipe, and <em>outbreaker2</em> provides the cooking pot.</p>
+
+<p><a><img src="/img/posts/cookingpot.png" alt="outbreaker2 cooking pot" /></a></p>
+
+<p>In fact, it also provides the kitchen, as it implements an infrastructure for
+handling data, defining settings of the method, and customising functions for
+priors, likelihoods, and random walks in the parameter space. This gives the
+user more control over the analysis, but will also drastically facilitate the
+development of new models without risking to break the existing
+infrastructure. Even if the components of the default <em>outbreaker2</em> model all
+runs in C++ (integrated via Rcpp), users can specify new components of the model
+as R functions, tapping the C++ API where relevant.</p>
+
+<h3 id="towards-more-reliability">Towards more reliability</h3>
+
+<p>Another side-benefit of this modularity is making testing simpler. Like most if
+not all similar methods in the field, <em>outbreaker</em> had no unit testing. Not
+one. Nothing. <em>outbreaker2</em> will follow the standards defined by
+<a href="http://www.repidemicsconsortium.org/">RECON</a> for package development, including
+complete coverage of the code (in R as well as C++) by unit testing (current
+<a href="https://codecov.io/github/reconhub/outbreaker2?branch=master">coverage</a> is
+about 70%) and the use of continuous integration tools (currently Travis and
+Appveyor).</p>
+
+<h3 id="slower-but-better">Slower, but better</h3>
+
+<p><em>outbreaker2</em> is slower than <em>outbreaker</em> by about one order of magnitude, but
+ speed can be deceptive. While the flexibility acquired in <em>outbreaker2</em>
+ undoubtedly has a cost in terms of speed, <em>outbreaker2</em> also does considerably
+ more per iteration of the MCMC than its predecessor. For instance, only a
+ fraction of the transmission tree was altered (“moved”) at each MCMC iteration
+ in <em>outbreaker</em>. The same was true of dates of infections, and some other
+ movements. In contrast, <em>outbreaker2</em> everything that can be moved at each
+ iteration, resulting in faster mixing. It may be 12 times slower, but it mixes
+ approximately 10 times faster, so that the speed difference is not as bad as it
+ seems.</p>
+
+<h2 id="can-i-try-it">Can I try it?</h2>
+
+<p><em>outbreaker2</em> has now entered its <em>testing</em> phase. It is fully documented at this website:</p>
+
+<p><a href="http://www.repidemicsconsortium.org/outbreaker2/">http://www.repidemicsconsortium.org/outbreaker2/</a></p>
+
+<p>The first place to start is the introductory
+vignette](http://www.repidemicsconsortium.org/outbreaker2/articles/introduction.html).</p>
+
+<p>Feedback is welcome! Feel free to post your comments on the bottom of this page,
+or on the <a href="https://github.com/reconhub/outbreaker2/issues">github issues of the
+project</a>.</p>
+:ET

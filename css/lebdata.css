@@ -1,0 +1,67 @@
+/* Add any custom CSS to change the style of the website in this file */
+
+/* Example: change the navigation bar background to orange (this code is documented out)
+.navbar-custom {
+  background: orange;
+}
+*/
+
+.btn-submit-data {
+  color: #fff !important;
+  text-decoration: none;
+  background: #00A651;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+  border: none;
+  transition: all 0.4s ease 0s;
+}
+
+.btn-submit-data:hover {
+  background: #434343;
+  letter-spacing: 1px;
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+  transition: all 0.4s ease 0s;
+}
+
+.btn-submit-article {
+  color: #fff !important;
+  text-decoration: none;
+  background: #ED1C24;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+  border: none;
+  transition: all 0.4s ease 0s;
+}
+
+.btn-submit-article:hover {
+  background: #434343;
+  letter-spacing: 1px;
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+  transition: all 0.4s ease 0s;
+}
+
+.btn-submit-viz {
+  color: #fff !important;
+  text-decoration: none;
+  background: rgb(112, 112, 112);
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+  border: 1px;
+  transition: all 0.4s ease 0s;
+}
+
+.btn-submit-viz:hover {
+  background: #434343;
+  letter-spacing: 1px;
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  box-shadow: 5px 40px -10px rgba(0,0,0,0.57);
+  transition: all 0.4s ease 0s;
+}
