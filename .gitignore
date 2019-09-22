@@ -9,4 +9,4 @@ R/.RData
 *.log
 *.out
 *.toc
-.jekyll-cache/
+**.jekyll-cache/
