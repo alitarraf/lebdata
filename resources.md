@@ -35,6 +35,7 @@ bigimg: /img/banners/resources.png
 ## Others
 - A very inspiring list of visualizations from the folks at [Flowing data](https://flowingdata.com)
 - The folks at [data visualization society](https://www.datavisualizationsociety.com/) are very helpful in improving your viz capabilities
+- [Data to Viz](https://data-to-viz.com) have a really nice way of explaining different visual types starting from the data you have.
 
 # Contribute to the list
 
