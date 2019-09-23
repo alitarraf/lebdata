@@ -26,11 +26,12 @@ bigimg: /img/banners/resources.png
 # Useful Data Visualization inspiration and tools
 
 ## Tools
-- Microsoft Excel or Google Sheet is awesome for simple analysis that doesnt need a lot of data manipulation. Start here.
+- [Google Sheet](https://www.google.com/sheets/about/) or Microsoft Excel is awesome for simple analysis that doesnt need a lot of data manipulation. Start here.
 - [Google Data Studio](https://datastudio.google.com/u/0/) can help quickly explore clean, nicely formatted datasets.
-- For complicated data analysis [Python](https://www.python.org/) and [jupyter](https://jupyter.org/) or [nteract](https://nteract.io/) are the LebData go to tools. Send us a message on [Slack](https://lebdata.slack.com) if you need help getting started.
-- [Power BI](https://powerbi.microsoft.com/en-us/)
-- The awesome [Plotly online](https://chart-studio.plot.ly/create/) can help you create stunning graphs really quick.
+- [Python](https://www.python.org/) and [jupyter](https://jupyter.org/) or [nteract](https://nteract.io/) are the LebData team goto tools for complicated data analysis. Send us a message on [Slack](https://lebdata.slack.com) if you need help getting started.
+- [Power BI](https://powerbi.microsoft.com/en-us/) is free for the desktop version, and very easy to learn and do some powerful analysis and beautiful dashboards
+- [Plotly online](https://chart-studio.plot.ly/create/) is awesome and can help you create stunning graphs really quick.
+- [Web Plot Digitizer](https://apps.automeris.io/wpd/) to convert an image into a plot comes in handy for visuals coming from pdf reports.
 
 ## Others
 - A very inspiring list of visualizations from the folks at [Flowing data](https://flowingdata.com)
