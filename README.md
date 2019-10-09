@@ -6,6 +6,8 @@ For the website itself, go to: https://www.lebdata.com
 
 Please address requests via email to the community manager at ([lebdata1948@gmail.com](lebdata1948@gmail.com)).
 
+The website design and content are inspired by the work of [RECON](https://www.repidemicsconsortium.org/) and [Dean Attali](https://deanattali.com/). Thanks for making your work Open Source!
+
 # Instructions for editing the website
 
 ## Editing the existing pages
