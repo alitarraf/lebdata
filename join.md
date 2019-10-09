@@ -4,8 +4,8 @@ title: Joining us
 ## How can I contribute?
 
 There are three ways you can contribute:
-- Submit a dataset by filling [this form](https://forms.gle/qhhbEbHBeo9fDKs4A). You can upload up to 10 files of 1Gb each. If you have any issues please reach out using the [Contact](/contact) page.
-- Submit a visual you created from analysing the LebDatasets by filling [this form](https://forms.gle/L9EFxRWQCNEGybVy5)
+- Submit a **dataset** by filling [this form](https://forms.gle/qhhbEbHBeo9fDKs4A). You can upload up to 10 files of 1Gb each. If you have any issues please reach out using the [Contact](/contact) page.
+- Submit a **visual** you created from analysing the Leb Datasets by filling [this form](https://forms.gle/L9EFxRWQCNEGybVy5)
 - Write a [data driven story](https://buzzsumo.com/blog/how-to-write-data-driven-stories-5-core-narratives/) and send it by filling [this form](https://forms.gle/uNZNatddVNurR43S8). Your article can use [LebData datasets](/data) or external data source.
 
 ## How can I join the LebData community?
@@ -79,7 +79,7 @@ joining LebData as a member. In short:
 - your data will not be used for any commercial purpose
 
 - the public part of your data will be used to generate your
-  [public profile](../people) on the RECON
+  [public profile](../people) on the Lebdata
   website; this does not include personal contact information
 
 - your private data may be made available to other LebData members; when filling
