@@ -24,6 +24,7 @@ bigimg: /img/banners/resources.png
 - [Google public data explorer](https://www.google.com/publicdata/directory#!)
 - [NASA Open Data](https://data.nasa.gov/)
 - [European Space Agency Open Data](http://open.esa.int/)
+- [MENA data platform](http://menadata.net/public/)
 
 # Useful Data Visualization inspiration and tools
 
