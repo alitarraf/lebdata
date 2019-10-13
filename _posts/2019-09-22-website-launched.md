@@ -1,7 +1,7 @@
 ---
 title: LebData website is online
 subtitle: The LebData community finally has a website
-bigimg: /img/banners/big_epi_image.jpg
+bigimg: /img/banners/binary.jpg
 date: 2019-09-22
 ---
 
