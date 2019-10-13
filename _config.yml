@@ -18,9 +18,9 @@ navbar-links:
   Viz: "viz"
   People: "people"
   Resources: "resources"
+  Funding: "funding"
   Forum: "forum"
 #  Events: "events"
-#  Funding: "funding"
 #  Projects: "projects"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
@@ -60,6 +60,7 @@ highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
 paginate_path: "/blog/page:num/"
+avatar: "/favicon.png"
 
 kramdown:
   input: GFM
@@ -79,7 +80,7 @@ defaults:
       path: "" # all files
     values:
       layout: "page"
-      show-avatar: true
+      show-avatar: false
 
 # Exclude these files from production site
 exclude:

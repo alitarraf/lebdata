@@ -2,31 +2,39 @@
 title: People
 subtitle: The humans behind this project
 executive-board:
-  - name: TBD
-    img: /img/people/a.jpg
-    desc: AI consultant 
-    website: 
-    url: 
-  - name: TBD
+  - name: Ali Tarraf
+    img: /img/people/ali-tarraf.jpg
+    desc: Founder and president of LebData, AI consultant at Mindsets, Beirut, Lebanon
+    website: https://ali-tarraf.com
+    twitter: https://twitter.com/alitarraf
+    github: https://github.com/alitarraf
+  - name: HM
     img: /img/people/h.jpg
-    desc: Smart city expert
-    linkedin: 
-  - name: TBD
-    img: /img/people/s.jpg
-    desc: Fellow in Oncology Hematology at MUSC. Currently overseeing the Lebanese diaspora data for North America.
+    desc: Co-founder and vice president of LebData, Management consultant and data scientist, London,UK 
+    linkedin:
+  - name: SM
+    img: /img/people/h.jpg
+    desc: VP of Lebanese Diaspora, Oncologist, South Carolina,USA 
     linkedin: 
 advisory-board:
-  - name: TBD
+  - name: RK
     img: /img/people/g.jpg
-    desc: Director of 
+    desc: Founder and Managing Partner of M 
     website: 
     url: 
     twitter: 
 
 members:
-  - name: TBD
+  - name: MH
     img: /img/people/d.jpg
-    desc: Data Viz guru.
+    desc: Linking data analytics and business, Data Scientist at ESCWA, Beirut, Lebanon
+    website: 
+    url: 
+    github: 
+    twitter:
+  - name: RD
+    img: /img/people/d.jpg
+    desc: Economist and Quantitative risk analyst, Beirut, Lebanon
     website: 
     url: 
     github: 

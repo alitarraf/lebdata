@@ -20,7 +20,6 @@ acknowledge institutions who supported LebData in terms of:
   to share technology and data, co-organise events such as workshops and short courses
   
 
-
 <br>
 
 ## Direct funding
@@ -33,7 +32,7 @@ activities, please get in touch by [email](mailto:lebdata1948@gmail.com).
 
 ## Indirect funding
 
-LebData has received no direct funding to date. If you would like to support our
+LebData has received no indirect funding to date. If you would like to support our
 activities, please get in touch by [email](mailto:lebdata1948@gmail.com).
 
 <br>
