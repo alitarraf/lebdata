@@ -3,18 +3,23 @@ title: Joining us
 ---
 ## How can I contribute?
 
-There are three ways you can contribute:
-- Submit a **dataset** by filling [this form](https://forms.gle/qhhbEbHBeo9fDKs4A). You can upload up to 10 files of 1Gb each. If you have any issues please reach out using the [Contact](/contact) page.
-- Submit a **visual** you created from analysing the Leb Datasets by filling [this form](https://forms.gle/L9EFxRWQCNEGybVy5)
-- Write a [data driven story](https://buzzsumo.com/blog/how-to-write-data-driven-stories-5-core-narratives/) and send it by filling [this form](https://forms.gle/uNZNatddVNurR43S8). Your article can use [LebData datasets](/data) or external data source.
+There are three ways you can contribute:<br><br>
+<a href="https://forms.gle/qhhbEbHBeo9fDKs4A" class="btn-submit-data-join" role="button">SUBMIT DATA</a><br>
+Submit a **dataset** by filling [this form](https://forms.gle/qhhbEbHBeo9fDKs4A). You can upload up to 10 files of 1Gb each. If you have any issues please reach out using the [Contact](/contact) page.<br><br>
+<a href="https://forms.gle/L9EFxRWQCNEGybVy5" class="btn-submit-viz-join" role="button">SUBMIT VIZ</a><br>
+Submit a **visual** you created from analysing the Leb Datasets by filling [this form](https://forms.gle/L9EFxRWQCNEGybVy5)<br><br>
+<a href="https://forms.gle/uNZNatddVNurR43S8" class="btn-submit-article-join" role="button">SUBMIT ARTICLE</a><br>
+Write a [data driven story](https://buzzsumo.com/blog/how-to-write-data-driven-stories-5-core-narratives/) and send it by filling [this form](https://forms.gle/uNZNatddVNurR43S8). Your article can use [LebData datasets](/data) or external data source.
+
+
 
 ## How can I join the LebData community?
 
 There are two ways to join our community, corresponding to different degrees of
 involvement:
 
-- as a *subscriber* following our activities, by signing up to our 
-[mailing list](http://eepurl.com/gD57j5) 
+- as a *subscriber* following our activities, by clicking <a href="http://eepurl.com/gD57j5" class="btn btn-success" role="button">SUBSCRIBE</a> to sign up to our mailing list,
+
 and getting involved in discussions on our
 [Slack organisation](https://lebdata.slack.com)
 

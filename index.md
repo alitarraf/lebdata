@@ -3,7 +3,7 @@
 
 <img src="/img/logo.png" title="LebData logo" alt="LebData logo" />
 
-**LebData** is an international not-for-profit **community** gathering activists concerned about public welfare, transparency and governance in Lebanon to create a database curated by the public for the public. LebData will collect and analyze public data about Lebanon not limited to Economics, Environment,Energy, Trade, and Population.
+**LebData** is a non-profit **community** gathering activists interested in public welfare, transparency and governance in Lebanon to create a database curated by the public for the public. LebData will collect and analyze public data about Lebanon including but not limited to Economics, Environment,Energy, Trade, and Population.
 
 > You can't improve what you don't measure.  - **Dr James Harrington**
 
@@ -27,10 +27,10 @@ The data we publish on LebData must meet the following criteria:
 - *Accessibility*: the data is free, open-source, public and available on virtually
   any platform and does not violate any privacy rules
 
-Besides its active involvement building a public database about Lebanon, LebData is also
+Besides its active involvement in building a public database about Lebanon, LebData is also
 increasingly dedicated to:
 
 - *disseminating knowledge*: LebData provides free, open-access training material
    on its [Resource page](/resources), and is planning to organize workshops about data and public governance. In addition LebData encourages its members to write [data driven articles](/blog).
 
-- *consulting on data governance*: LebData members support interested parties in data governance reforms through consultation with local and international experts
+- *consulting on data governance*: LebData members support interested parties in data governance reforms through consultation with local and international experts.
