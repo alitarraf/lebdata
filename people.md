@@ -4,7 +4,7 @@ subtitle: The humans behind this project
 executive-board:
   - name: Ali Tarraf
     img: /img/people/ali-tarraf.jpg
-    desc: Founder and president of LebData, AI consultant at Mindsets, Beirut, Lebanon
+    desc: Founder of LebData, AI consultant at Mindsets, Beirut, Lebanon
     website: https://ali-tarraf.com
     twitter: https://twitter.com/alitarraf
     github: https://github.com/alitarraf
