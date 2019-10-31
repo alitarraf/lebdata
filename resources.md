@@ -17,6 +17,7 @@ bigimg: /img/banners/resources.png
 
 ## Other data sources
 - [UN Data](http://data.un.org/Default.aspx)
+- [UNHCR Lebanon Information Hub](http://ialebanon.unhcr.org/)
 - [World Bank](https://data.worldbank.org/)
 - [UN ESCWA data](https://data.unescwa.org/)
 - [Enigma](https://public.enigma.com/)
@@ -25,6 +26,7 @@ bigimg: /img/banners/resources.png
 - [NASA Open Data](https://data.nasa.gov/)
 - [European Space Agency Open Data](http://open.esa.int/)
 - [MENA data platform](http://menadata.net/public/)
+- [The Observatory of Economic Complexity OEC](https://oec.world/en/profile/country/lbn/)
 
 # Useful Data Visualization inspiration and tools
 

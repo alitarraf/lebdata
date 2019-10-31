@@ -8,19 +8,15 @@ executive-board:
     website: https://ali-tarraf.com
     twitter: https://twitter.com/alitarraf
     github: https://github.com/alitarraf
-  - name: HM
-    img: /img/people/h.jpg
-    desc: Co-founder and vice president of LebData, Management consultant and data scientist, London,UK 
-    linkedin:
-  - name: SM
-    img: /img/people/h.jpg
-    desc: VP of Lebanese Diaspora, Oncologist, South Carolina,USA 
+  - name: Sara Matar, MD
+    img: /img/people/sara-matar.jpg
+    desc: Overseeing data related to the Lebanese Diaspora, Oncologist, South Carolina, USA 
     linkedin: 
 advisory-board:
-  - name: RK
-    img: /img/people/g.jpg
-    desc: Founder and Managing Partner of M 
-    website: 
+  - name: Rayan Khraibani, Phd
+    img: /img/people/rayan-khraibani.jpeg
+    desc: Founder and Managing Partner of Mindsets, Strategy and Decision Analysis Expert, Lecturer at the American  University of Beirut
+    website: https://mindsetsadvisors.com
     url: 
     twitter: 
 
@@ -39,6 +35,13 @@ members:
     url: 
     github: 
     twitter: 
+  - name: Said Abou Kharroub
+    img: /img/people/said-abou-kharroub.jpg
+    desc: Said is an Information Management professional with extensive professional experience in Data Science, Monitoring & Evaluation, Information Management, Visualization, and Coordination. His experience is accumulated through aggregated years of work in the United Nations, USAID, and Private Sector across the MENA Region. 
+    website: 
+    url: 
+    github: 
+    twitter:
 ---
 
 
