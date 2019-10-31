@@ -36,6 +36,7 @@ bigimg: /img/banners/resources.png
 - [Google Data Studio](https://datastudio.google.com/u/0/) can help quickly explore clean, nicely formatted datasets.
 - [Python](https://www.python.org/) and [jupyter](https://jupyter.org/) or [nteract](https://nteract.io/) are the LebData team goto tools for complicated data analysis. Send us a message on [Slack](https://lebdata.slack.com) if you need help getting started.
 - [Google Colab Notebooks](https://colab.research.google.com/) quickest way to get you started with Python or R, hosted free in the cloud
+- [Workbench](https://workbenchdata.com) is a free online platform to quickly scrape data and explore data made for journalists
 - [Power BI](https://powerbi.microsoft.com/en-us/) is free for the desktop version, and very easy to learn and do some powerful analysis and beautiful dashboards.
 - [Plotly online](https://chart-studio.plot.ly/create/) is awesome and can help you create stunning graphs really quick.
 - [Web Plot Digitizer](https://apps.automeris.io/wpd/) to convert an image into a plot comes in handy for visuals coming from pdf reports.

@@ -14,7 +14,7 @@ executive-board:
     linkedin: 
 advisory-board:
   - name: Rayan Khraibani, Phd
-    img: /img/people/rayan-khraibani.jpeg
+    img: /img/people/rayan-khraibani.jpg
     desc: Founder and Managing Partner of Mindsets, Strategy and Decision Analysis Expert, Lecturer at the American  University of Beirut
     website: https://mindsetsadvisors.com
     url: 
@@ -37,7 +37,7 @@ members:
     twitter: 
   - name: Said Abou Kharroub
     img: /img/people/said-abou-kharroub.jpg
-    desc: Said is an Information Management professional with extensive professional experience in Data Science, Monitoring & Evaluation, Information Management, Visualization, and Coordination. His experience is accumulated through aggregated years of work in the United Nations, USAID, and Private Sector across the MENA Region. 
+    desc: Said is an Information Management professional with extensive professional experience in Data Science, Monitoring & Evaluation,and Visualization with the United Nations, USAID, and Private Sector across the MENA Region. 
     website: 
     url: 
     github: 
