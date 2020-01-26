@@ -10,7 +10,7 @@ executive-board:
     github: https://github.com/alitarraf
   - name: Sara Matar, MD
     img: /img/people/sara-matar.jpg
-    desc: Overseeing data related to the Lebanese Diaspora, Oncologist, South Carolina, USA 
+    desc: Sara is an Oncologist based in the USA. She oversees data related to the Lebanese Diaspora in the USA. 
     linkedin: 
 advisory-board:
   - name: Rayan Khraibani, Phd
@@ -42,6 +42,13 @@ members:
     url: 
     github: 
     twitter:
+  - name: KK
+    img: /img/people/khalil-khraibani.jpg
+    desc: KK is an entrepreneur based in Abidjan, Ivory Coast. He overseas data related to the Lebanese Diaspora in Africa. 
+    website: 
+    url: 
+    github: 
+    twitter:  
 ---
 
 
