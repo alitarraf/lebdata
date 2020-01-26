@@ -10,14 +10,18 @@ All visuals below are generated from datasets listed in the [data page](/data).
 
 <div class="row">
   <div class="col-md-2">
-    <iframe width="633" height="380.7499166368702" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOobR3ztexb9B4gySS-pOF74JmEx71M6FjWgLj7aD6x2EP9j0vatRZlYjQe0v6fQ/pubchart?oid=1416272991&amp;format=interactive"></iframe>
+    <iframe width="633" height="380" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOobR3ztexb9B4gySS-pOF74JmEx71M6FjWgLj7aD6x2EP9j0vatRZlYjQe0v6fQ/pubchart?oid=1585217072&amp;format=interactive"></iframe>
 
   <div class="caption">
-    <p>Power Generated in Lebanon from 2008 to 2017 by source in GWh & %</p>
+  <a href="https://docs.google.com/spreadsheets/d/1eo7gPmb1CmrT4MRspaDLn76rAC_9KX7n/edit?dls=true#gid=154151508">
+    <p>Source: EDL Report - Power Generated in Lebanon from 2008 to 2017 by source in GWh & %</p>
+  </a>
   </div>
 
   </div>
 </div>
+
+[Source:EDL](https://docs.google.com/spreadsheets/d/1eo7gPmb1CmrT4MRspaDLn76rAC_9KX7n/edit?dls=true#gid=154151508)
 
 ## Population
 
