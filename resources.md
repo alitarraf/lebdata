@@ -27,6 +27,7 @@ bigimg: /img/banners/resources.png
 - [European Space Agency Open Data](http://open.esa.int/)
 - [MENA data platform](http://menadata.net/public/)
 - [The Observatory of Economic Complexity OEC](https://oec.world/en/profile/country/lbn/)
+- [World Lebanese Cultural Union](http://www.wlcu.org/)
 
 # Useful Data Visualization inspiration and tools
 
@@ -44,8 +45,8 @@ bigimg: /img/banners/resources.png
 
 
 ## Others
-- A very inspiring list of visualizations from the folks at [Flowing data](https://flowingdata.com)
-- The folks at [data visualization society](https://www.datavisualizationsociety.com/) are very helpful in improving your viz capabilities
+- [Flowing data](https://flowingdata.com) has a very inspiring list of visualizations
+- [Data visualization society](https://www.datavisualizationsociety.com/) can help you improve your visualization capabilities
 - [Data to Viz](https://data-to-viz.com) have a really nice way of explaining different visual types starting from the data you have.
 
 # Contribute to the list
