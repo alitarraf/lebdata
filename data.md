@@ -23,10 +23,10 @@ subtitle: LebData collection of public datasets about Lebanon
 # Outside Lebanon
 
 ## United States of America
-
-- ### Healthcare
-  - List of Physicians practicing in the USA (coming soon)
-
+- List of Physicians practicing in the USA (coming soon)
+  
+## Ivory Coast
+- List of Lebanese companies in Ivory Coast (coming soon)
 
 # Make a request
 
