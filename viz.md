@@ -48,6 +48,7 @@ All visuals below are generated from datasets listed in the [data page](/data).
 ### Gross Domestic Product
 <div class="row">
 <iframe width="613" height="361" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4kLEAFDl7srzZ7lCrFIqpP1EOS08tf6KpY0_yxP-Aj8dsqlZeJTFz1M_L5D0vdQ/pubchart?oid=638980207&amp;format=interactive"></iframe>
+
   <div class="col">
   <a href=https://docs.google.com/spreadsheets/d/1ScKqkRmfllMAvFK4p34mIZ3tHD9E_VYt/edit#gid=1881081744">
     <p>Source: CAS National Accounts - GDP of the Lebanese economy in 2010 US Dollars from 2004 to 2017</p>
@@ -55,8 +56,6 @@ All visuals below are generated from datasets listed in the [data page](/data).
   </div>
 </div>
 
-
-http://cas.gov.lb/index.php/national-accounts-en
 
 ## Transportation
 
