@@ -9,7 +9,7 @@ All visuals below are generated from datasets listed in the [data page](/data).
 ## Energy
 
 <div class="row">
-    <iframe width="633" height="380" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOobR3ztexb9B4gySS-pOF74JmEx71M6FjWgLj7aD6x2EP9j0vatRZlYjQe0v6fQ/pubchart?oid=1585217072&amp;format=interactive"></iframe>
+    <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOobR3ztexb9B4gySS-pOF74JmEx71M6FjWgLj7aD6x2EP9j0vatRZlYjQe0v6fQ/pubchart?oid=1585217072&amp;format=interactive"></iframe>
 
   <div class="col">
   <a href="https://docs.google.com/spreadsheets/d/1eo7gPmb1CmrT4MRspaDLn76rAC_9KX7n/edit?dls=true#gid=154151508">
@@ -20,7 +20,7 @@ All visuals below are generated from datasets listed in the [data page](/data).
 </div>
 
 <div class="row">
-<iframe width="550.5434210526315" height="330.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOobR3ztexb9B4gySS-pOF74JmEx71M6FjWgLj7aD6x2EP9j0vatRZlYjQe0v6fQ/pubchart?oid=1615684449&amp;format=interactive"></iframe>
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOobR3ztexb9B4gySS-pOF74JmEx71M6FjWgLj7aD6x2EP9j0vatRZlYjQe0v6fQ/pubchart?oid=1615684449&amp;format=interactive"></iframe>
 
   <div class="col">
   <a href="https://docs.google.com/spreadsheets/d/1eo7gPmb1CmrT4MRspaDLn76rAC_9KX7n/edit#gid=154151508">
