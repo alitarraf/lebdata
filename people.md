@@ -21,15 +21,15 @@ members:
     img: /img/people/sara-matar.jpg
     desc: Sara is an Oncologist based in the USA. She oversees data related to the Lebanese Diaspora in the USA. 
     linkedin: 
-  - name: MH
-    img: /img/people/d.jpg
+  - name: Mohamad Hossary
+    img: /img/people/mohamad-hossary.jpg
     desc: Linking data analytics and business, Data Scientist at ESCWA, Beirut, Lebanon
     website: 
     url: 
     github: 
     twitter:
-  - name: RD
-    img: /img/people/d.jpg
+  - name: Roland Dermesropian
+    img: /img/people/roland-dermesropian.jpg
     desc: Economist and Quantitative risk analyst, Beirut, Lebanon
     website: 
     url: 
@@ -43,7 +43,7 @@ members:
     github: 
     twitter:
   - name: KK
-    img: /img/people/khalil-khraibani.jpg
+    img: /img/people/kk.jpg
     desc: KK is an entrepreneur based in Abidjan, Ivory Coast. He oversees data related to the Lebanese Diaspora in Africa. 
     website: 
     url: 
