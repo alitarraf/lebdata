@@ -8,26 +8,14 @@ All visuals below are generated from datasets listed in the [data page](/data).
 
 ## Energy
 
- <div class="row">
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/img/viz/2008-2017-power-generated-by-source.png">
-        <img src="/img/viz/2008-2017-power-generated-by-source.png" alt="power-generated-lebanon" style="width:100%">
-        <div class="caption">
-          <p>Power Generated in Lebanon from 2008 to 2017 by source</p>
-        </div>
-      </a>
-    </div>
+<div class="row">
+  <div class="col-md-2">
+    <iframe width="633" height="380.7499166368702" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQOobR3ztexb9B4gySS-pOF74JmEx71M6FjWgLj7aD6x2EP9j0vatRZlYjQe0v6fQ/pubchart?oid=1416272991&amp;format=interactive"></iframe>
+
+  <div class="caption">
+    <p>Power Generated in Lebanon from 2008 to 2017 by source in GWh & %</p>
   </div>
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/img/viz/2008-2017-power-generated-by-source-percentage.png">
-        <img src="/img/viz/2008-2017-power-generated-by-source-percentage.png" alt="power-generated-lebanon-percentage" style="width:100%">
-        <div class="caption">
-          <p>Power generated in Lebanon from 2008 to 2017 by source percentage </p>
-        </div>
-      </a>
-    </div>
+
   </div>
 </div>
 
