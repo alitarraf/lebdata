@@ -33,16 +33,14 @@ All visuals below are generated from datasets listed in the [data page](/data).
 ## Population
 
 <div class="row">
-  <div class="col-md-4">
-    <div class="thumbnail">
-      <a href="/img/viz/1999-2018-number-divorces-marriages.png">
-        <img src="/img/viz/1999-2018-number-divorces-marriages.png" alt="marriage-divorce" style="width:100%">
-        <div class="caption">
-          <p>Number of marriages and divorces in Lebanon from 1999-2018</p>
-        </div>
-      </a>
-    </div>
+<iframe width="583.5" height="361.65814696485626" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSPkdno8cTqQq_szOrjS44_3BmfTdIYqpBIbvNFdn6aufzGOm5UWu-74KLGqacE8w/pubchart?oid=697293126&amp;format=interactive"></iframe>
+
+  <div class="col">
+  <a href="https://docs.google.com/spreadsheets/d/1BEW8LSHP15b9rx0mPYTL1kGweHFNkWwh/edit#gid=1492715770">
+    <p>Source: CAS Vital Statistics - Total Mariage and Divorces </p>
+  </a>
   </div>
+
 </div>
 
 ## Economics
