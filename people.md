@@ -17,7 +17,7 @@ advisory-board:
     twitter: 
 
 members:
-    - name: Sara Matar, MD
+  - name: Sara Matar, MD
     img: /img/people/sara-matar.jpg
     desc: Sara is an Oncologist based in the USA. She oversees data related to the Lebanese Diaspora in the USA. 
     linkedin: 
