@@ -42,8 +42,8 @@ members:
     url: 
     github: 
     twitter:
-  - name: KK
-    img: /img/people/kk.jpg
+  - name: Khalil Khraibani
+    img: /img/people/khalil-khraibani.jpg
     desc: KK is an entrepreneur based in Abidjan, Ivory Coast. He oversees data related to the Lebanese Diaspora in Africa. 
     website: 
     url: 
