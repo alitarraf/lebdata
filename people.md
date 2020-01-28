@@ -37,7 +37,7 @@ members:
     twitter: 
   - name: Said Abou Kharroub
     img: /img/people/said-abou-kharroub.jpg
-    desc: Said is an Information Management professional with extensive professional experience in Data Science, Monitoring & Evaluation,and Visualization with the United Nations, USAID, and Private Sector across the MENA Region. 
+    desc: Said is an Information Management professional with extensive professional experience in Data Science with the United Nations.
     website: 
     url: 
     github: 
